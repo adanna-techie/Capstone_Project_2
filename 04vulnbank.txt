@@ -1,3 +1,4 @@
 Target Application: vulnbank.org
+Tools to use: Burpsuite, nmap
 
 Q1: Perform a penetration test on the application and find vulnerabilities according to the OWASP Top Ten
