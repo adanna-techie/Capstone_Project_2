@@ -13,3 +13,6 @@ Keep learning. Keep practicing. Keep securing. 🛡️
 Thank you for being part of this training. I wish you continued success as you apply your knowledge, explore new challenges, and contribute to a safer digital world.
 
 Your next chapter in cybersecurity starts now! 🚀
+
+
+To solve this challenge, the use of AI is encouraged, but it should not replace your thinking.
