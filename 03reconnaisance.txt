@@ -17,8 +17,9 @@ Q4 What location was the image taken
 
 
 
-Q5 Identify the encoding format used for the value stored in the Comment field.
+Cryptography:
 
+Q5 Identify the encoding format used for the value stored in the Comment field.
 
 
 Q6 Decode the string and report the resulting message
