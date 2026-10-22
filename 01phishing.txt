@@ -1,12 +1,14 @@
 Instructions:
 
-You are a SOC Analyst at Mighty Solutions, Inc. An account executive, Dana Derringer, noticed a warning email in her inbox claiming her online access has been disabled. However, she noticed this was odd as she is still able to access her online business platforms and inbox. She decided to forward the email in question to the security team's phishing mailbox for review.
+You are a SOC Analyst at Wavy. An account executive, Dana Derringer, noticed a warning email in her inbox claiming her online access has been disabled. However, she noticed this was odd as she is still able to access her online business platforms and inbox. She decided to forward the email in question to the security team's phishing mailbox for review.
 
-Using what you've learned within this domain, perform a detailed email analysis on the challenge1.eml file to answer the report questions below.
+Using what you've learned within this cohort, perform a detailed email analysis on the challenge1.eml file to answer the report questions below.
 
 Challenge File:
 
 01_Phishing_Analysis/Challenges/challenge1.eml
+
+Tools to use: Thunderbird, Sublime text, Virustotal, urlscan.io, mxtoolbox.com
 
 
 Q1 Based on the contents of the email header, what is the full date and time of the email delivery?
