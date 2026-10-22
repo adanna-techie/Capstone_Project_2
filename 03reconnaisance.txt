@@ -19,6 +19,8 @@ Q4 What location was the image taken
 
 Cryptography:
 
+Tool to use: https://gchq.github.io/CyberChef/
+
 Q5 Identify the encoding format used for the value stored in the Comment field.
 
 
