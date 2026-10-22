@@ -1,7 +1,9 @@
 Instructions:
-The SOC at BulbaTech Innovations received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
+The SOC at Wavy received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
 
 Using your newfound Wireshark skills, perform network traffic analysis on the wireshark_challenge.pcap packet capture to produce findings for the report questions below.
+
+Tools to use: Wireshark
 
 Challenge File:
 02_Network_Security/02_Wireshark/Challenges/wireshark_challenge.pcap
