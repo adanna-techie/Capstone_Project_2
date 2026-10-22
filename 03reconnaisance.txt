@@ -1,0 +1,44 @@
+OSINT
+File Capi.png
+
+Q1 What is metadata, and what information can it reveal about an image?
+
+
+
+Q2 Use ExifTool to extract all available metadata from the provided image.
+
+
+
+Q3 Who is the owner of the image
+
+
+
+Q4 What location was the image taken
+
+
+
+Q5 Identify the encoding format used for the value stored in the Comment field.
+
+
+
+Q6 Decode the string and report the resulting message
+
+
+
+NMAP
+
+Target ip scanme.nmap.org/ 45.33.32.156
+
+Q7: How many hosts are up in the network?
+
+
+Q8: How many services are listening on the host?
+
+
+Q9: What version of SSH is running on the target host?
+
+
+Q10: List the ports that are open and the services running on them
+
+
+Q11 What Operating system is the host running on?

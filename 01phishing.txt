@@ -1,0 +1,48 @@
+Instructions:
+
+You are a SOC Analyst at Mighty Solutions, Inc. An account executive, Dana Derringer, noticed a warning email in her inbox claiming her online access has been disabled. However, she noticed this was odd as she is still able to access her online business platforms and inbox. She decided to forward the email in question to the security team's phishing mailbox for review.
+
+Using what you've learned within this domain, perform a detailed email analysis on the challenge1.eml file to answer the report questions below.
+
+Challenge File:
+
+01_Phishing_Analysis/Challenges/challenge1.eml
+
+
+Q1 Based on the contents of the email header, what is the full date and time of the email delivery?
+
+***, ** *** **** **:**:** -****
+
+Q2 What is the subject of the email?
+
+Q3 Who was the email sent to?
+
+Q4 Based on the sender's display name, who does the email claim to be from?
+
+Q5 What is the sender's email address?
+
+Q6 What email address is used for receiving bounced emails?
+
+Q7 What is the IP address of the sender's email server?
+
+**.***.**.**
+
+Q8 What is the resolved hostname of the sender's IP address?
+
+Q9 What corporation owns the sender's IP address?
+
+Q10 What was the result of the SPF check?
+
+Q11 What is the full SPF record of the sender's domain?
+
+*=**** *******:***.**********.*******.*** -***
+
+Q12 What is the email's Message ID?
+
+Q13 In defanged format, what is the second URL extracted from the email?
+
+*****[://]*[*]***[*]***[*]**[*]****[*]************[*]***/***************/
+
+Q14 Perform a VirusTotal scan on the URL. What verdict did Fortinet assign to it?
+
+Q15 [Yes or No] - After your analysis, is this email genuine?

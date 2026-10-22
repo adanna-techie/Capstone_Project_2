@@ -1,0 +1,23 @@
+Instructions:
+The SOC at BulbaTech Innovations received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
+
+Using your newfound Wireshark skills, perform network traffic analysis on the wireshark_challenge.pcap packet capture to produce findings for the report questions below.
+
+Challenge File:
+02_Network_Security/02_Wireshark/Challenges/wireshark_challenge.pcap
+
+
+Q1 How many total packets are in the wireshark_challenge.pcap packet capture?
+
+Q2 What was the first domain name queried and resolved in the capture?
+
+Q3 What is the associated IP address of the domain name?
+
+Q4 How many HTTP packets are contained in the capture file?
+
+Q5 What protocol makes up the majority of UDP packets?
+
+Q6 Look at the domain names that were queried within the capture. In defanged format, what is the base domain name that is continually queried?
+
+
+
